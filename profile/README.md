@@ -15,11 +15,12 @@ Stay curious. Build smart. Read deep.
 
 Here’s a curated list of my original research, technical blogs, and tutorials:
 
+- [The Great Interface Revolution: Will AI Make Traditional Software Frontends Obsolete?](https://medium.com/towards-artificial-intelligence/the-great-interface-revolution-will-ai-make-traditional-software-frontends-obsolete-04f9dd57a053)
 - [Instantly Generate Laravel APIs from Your Database Schema](https://medium.com/@priom7197/instantly-generate-laravel-apis-from-your-database-schema-a-powerful-cli-tool-dcae914b3f24)
+- [Chat with Any Database Using OpenAI + SQL Generator](https://medium.com/@priom7197/revolutionizing-database-interactions-with-ai-powered-sql-query-generation-da0ac8302207)
 - [Optimizing RAG with a Dictionary-Based Approach (2/3)](https://medium.com/towardsdev/how-to-optimise-your-rag-enhancing-llm-accuracy-with-a-dictionary-based-approach-part-2-3-68e3532a4b5c)
 - [Enhancing Domain-Specific LLM Interactions (1/3)](https://medium.com/@priom7197/enhancing-domain-specific-llm-interactions-with-structured-data-a-new-approach-to-query-bb78e679cc9f)
 - [How I Document and Track My Work With Just 0.01% Effort](https://medium.com/@priom7197/how-i-document-and-track-my-work-with-just-0-01-effort-as-a-software-developer-b99ca75fe73d)
-- [Chat with Any Database Using OpenAI + SQL Generator](https://medium.com/@priom7197/revolutionizing-database-interactions-with-ai-powered-sql-query-generation-da0ac8302207)
 - [Building a RAG System with Node.js, React, and AI](https://build-rag-with-node.netlify.app/)
 - [Run Local AI Chatbot using Ollama & DeepSeek](https://medium.com/@priom7197/️-run-ai-chatbot-locally-with-react-ollama-deepseek-llm-6e762e076f2f)
 - [The Gatekeeper of Knowledge in Corporate Culture](https://medium.com/@priom7197/the-gatekeeper-of-knowledge-in-corporate-culture-a-reflection-from-the-mid-career-frontlines-d5bcdf44204b)
